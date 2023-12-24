@@ -7,3 +7,6 @@ Introducing DIeTech Assist: the groundbreaking mobile app transforming food-rela
 ![image](https://github.com/MuaadhEsmailT/Chatbot/assets/86142945/64f293e4-812f-47f6-88ee-01a21520064a)
 
 
+<br/>
+
+![image](https://github.com/MuaadhEsmailT/Chatbot/blob/main/Screenshot%202023-12-24%20120453.png)
